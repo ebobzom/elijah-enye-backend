@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "elijah-enye-challenge-3",
+    "private_key_id": "d012d1365ddbafbc83e49bd5b0ba9eba18dce36d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFWWqO6KL+OwH2\ngvWwRxsM77ySi+GIN5T8Hf9eeklyX3VZtrSa0zFGdWDDPQU4PVjfW7IYj9SZ8QMi\nycq5yzSiHMPG5d3fS6SUYj/eSv3Oip5OojLnUAc/9LX0RdiyOaQQvla8qgbXsDcL\ngEVlmSAX4sxME8DtdvInU26NDi6wMpZk2kmZGkZSrE7uf3JJ+aT2QfnT8WpT1yBq\nnRRPo5vuo0E20EaxMwHMNUYhgFx9KNJ90Wn7uUOP3QqDnBXFu58lafoNlJv6aTzi\ns4Ae7snw7ab/9S7dTw3zWq2qveNXK2CGrmwzwUF/a1t3gvVZLkSf3gQ8lRFl9lTq\ngOj9i9rzAgMBAAECggEABLVG5QToyo7m05Y5PUzc+NiJU6exqDnHPKKMkpjxQqDD\nYHIK6fyq2sb3GYFNrBNOmPmLjKl1xXxp+jz9MKSH62wrQYX/XpHj6cRUSL3aQ0Cs\nWSzmcP1IRv7UDnFSI6JbZyjbUeHuitvB3GzhevSFvvwiqpf4DNI/IbAMXaIefAaW\nH1q8RajCM3Kp9r1tgMBQFHjaJQFWq2h0EHsm1lKmoDfKkNtwaiUxkFeXTxA6ZsWS\nk19yHlbDPFcBsS+x2a2a/nw+A8qWfR/9ZT700g8lVyMc0h2Kr5U4Bx0mg+it6e7Z\n6hs3AG/8FqaQhN6taW5iuCECrv5hMM6ZfexSsVB3oQKBgQD/HsHVEg+b9SpUdQF/\nKf6XTmxI1VObLK4px/iP+4tilPJc1ZCQJDzYUQrOYAv2b3nFxedhA8X9OeXYpDx4\nG4ky7JcrTQTQv0zLe945Qc2IqH+SCRRI6rhwThXnGT+78GnYOFC3g4l8JdDLgcbm\nM270CMLnEfjuucXVKMXrIEnB0wKBgQDGB6dgE+5Hw0qRiTpzdspeqGs+kSmHUJCc\nwWO1IDFIrlsMY4pU81w3eYDQOrHOG3EZ04AElTzHloT7+NpUVQ/YroKowpdxjRBn\ns+UQ/gvSeD+WhgFupWcdTff2c39UPxazITxeNhLYKEteW9+LKLpL1uzOvJHKOZvx\nOLbhGzSuYQKBgCYiLs7ueC7TopQlOSgM2uU676yjVm/nadEM9vZunxMJOIDv2z/w\narfaxUa7zI31c7pALqmtqraDJPwQ8IjzdLqL6ryqMoIRViVESp88WsCGjysA+Gs9\nynve8B8vAvvQn8GWCVqk6rQH4wHIUDawkXEgriFj6lWkpxGJmqvek6fJAoGAFMVU\nvvUYNxq6xY0ZPmclTsxng0aCjpjasjZumN7pjHANSL1gEwz7jS4HXs/pOm8Sa90N\nPm3Q1DZreGpfrBzH7rhPKBhQ/i4HnHj3+9JJtye5s7YWjF549E/rRERVBKchYGSK\nCm+thlKjpSAJ0HTTJYVDjWOl/woP2ztRo0bRPcECgYEAnY6v5rCtkYXn0NEgN1bY\nD6G9L8l1F6/ztU+kxYs0Yq9w+6GBQwxbSDr3/22GuYyVE1F/+TFzMdA9PzxjVonr\nBFkZtkmX/yKR3jxDSviw+A8V1ZfVy5IeU6P3gQf04CHT2MH9mQMWjWxQBK5BoY4G\nFhhmWbWU3yjasKpyOHyVWjI=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-8lfys@elijah-enye-challenge-3.iam.gserviceaccount.com",
+    "client_id": "113008917130987021340",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8lfys%40elijah-enye-challenge-3.iam.gserviceaccount.com"
+  }
